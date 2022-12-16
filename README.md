@@ -17,6 +17,9 @@ see the runtime.
 see the showtime.
 see the tickets remaining.
 Buy a ticket of the movie.
+
+
+
 ## Requirements
 Web browser of choice preferably Chrome
 
@@ -37,11 +40,11 @@ Web browser of choice preferably Chrome
 
  open your terminal and clone the repo to your machine  
 ```sh
-git clone git@github.com:malcomowilla/flatdango-app.git
+git clone git@github.com:malcomowilla/flatdango-1.git
 ```
 and then navigate into its directory
 ```sh
-cd flatdango-app
+cd flatdango-1
 ```
 
 a json server is required for this project so we need to install it
